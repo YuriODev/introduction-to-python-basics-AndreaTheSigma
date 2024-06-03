@@ -126,7 +126,7 @@ Focuses on understanding and applying basic arithmetic operations to find the ma
 
 ### Output:
 - "YES" if `a` is divisible by `b`, otherwise "NO".
-
+                                             
 ### Examples:
 
 | No. | Inputs | Outputs |
